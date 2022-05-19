@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Akshay Thotange (@Akshay2909)
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning ML.
-
+ Hi, I’m Akshay 👋
+ I’m interested in Data science

@@ -1,3 +1,3 @@
- Hi, I’m Akshay 👋
+ **Hi, I’m Akshay** 👋
  
  I’m interested in Data science
